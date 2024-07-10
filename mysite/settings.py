@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-q03*k+_&h#aggy^2oau@l&$&0oia0((f$18)hb431w6$ekkl!n
 DEBUG = True
 
 if DEBUG:
-    STRIPE_PUBLISHABLE_KEY = 'pk_test_51PaydKAaLcuORhzAESblN30Gh49xi5hOdj12uFwbrawFxJz1Uh9iFGlDAdWSnqVR04w1LIWQkJmNIwqxwkSRfD5T00vXy9x747'
-    STRIPE_SECRET_KEY = 'sk_test_51PaydKAaLcuORhzAOwxgcW7RKF68GbWUD1UssUTejXDIBtrG3SqjOBWjGCwVNYP1Ty7d11khj9KpmGkHmZdQcOLe00heoUZvyq'
+    STRIPE_PUBLISHABLE_KEY = 'Enter you secret key'
+    STRIPE_SECRET_KEY = 'Enter your secret key'
 
 ALLOWED_HOSTS = []
 
