@@ -70,6 +70,7 @@ Django migrations are used to manage changes to your database schema over time. 
     python manage.py migrate
     ```
 
+
 ## Images Attachment
 
 ### Home page
@@ -137,6 +138,6 @@ https://github.com/Laksanna/django-buy-sell-website-certification/assets/1340764
 
 ## Conclusion
 
-We've designed this project with a focus on providing a secure, user-friendly, and feature-rich platform for online shopping. From robust user authentication to seamless payment processing and personalized shopping experiences, we've integrated the latest technologies and best practices to ensure a smooth journey for our users.
+I have designed this project with a focus on providing a secure, user-friendly, and feature-rich platform for online shopping. From robust user authentication to seamless payment processing and personalized shopping experiences, we've integrated the latest technologies and best practices to ensure a smooth journey for our users.
 
 
