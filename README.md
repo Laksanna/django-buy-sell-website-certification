@@ -72,11 +72,30 @@ Django migrations are used to manage changes to your database schema over time. 
 
 ## Images
 
+## Home page
 
-![image](https://github.com/Laksanna/django-buy-sell-website-certification/issues/1#issue-2402226841)
+![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/0332e39d-cb02-4491-b834-cdc6da9078c4)
 
+## Login page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/45d3eef3-f70b-4345-b1f8-4039694d80b8)
+
+
+## Register page
+
+![rimage](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/95e18643-ae09-45f1-9cbb-cb86f4db0f85)
+
+## Products page
+
+![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/ccd7e48e-b8e7-4867-bae4-dfe1f157bce3)
+
+![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/5ef4c4b9-5fff-4979-8456-314528d1590d)
+
+
+![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/489fa6c8-a6d0-4f50-bc66-1e53c254fe68)
+
+## User Profile page
+![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/ca148592-72bb-417b-a784-af3380f8d3c6)
 
 
 
