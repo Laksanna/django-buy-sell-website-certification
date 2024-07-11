@@ -1,4 +1,4 @@
-# Happy Shopping - E-commerce Website 
+# Happy Shopping 🛍️ - E-commerce Website 
 
 ## Table of contents
 - [Introduction](#introduction)
