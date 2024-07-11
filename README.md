@@ -70,22 +70,22 @@ Django migrations are used to manage changes to your database schema over time. 
     python manage.py migrate
     ```
 
-## Images
+## Images Attachment
 
-## Home page
+### Home page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/0332e39d-cb02-4491-b834-cdc6da9078c4)
 
-## Login page
+### Login page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/45d3eef3-f70b-4345-b1f8-4039694d80b8)
 
 
-## Register page
+### Register page
 
 ![rimage](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/95e18643-ae09-45f1-9cbb-cb86f4db0f85)
 
-## Products page
+### Products page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/ccd7e48e-b8e7-4867-bae4-dfe1f157bce3)
 
@@ -94,41 +94,49 @@ Django migrations are used to manage changes to your database schema over time. 
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/489fa6c8-a6d0-4f50-bc66-1e53c254fe68)
 
-## User Profile page
+### User Profile page
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/ca148592-72bb-417b-a784-af3380f8d3c6)
 
-## Add product page
+### Add product page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/baf7c50d-4536-4dc1-bcef-dec8bd4546bf)
 
-## Product listing page of a user
+### Product listing page of a user
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/cf6bf381-347f-4b67-b55b-7d9b5e32d03a)
 
-## Update product page
+### Update product page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/fce07fc7-56b4-4de6-86a3-3d53916dc0fb)
 
-## Delete product page
+### Delete product page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/acfb7de6-7f2a-41ce-8894-a674c75334e8)
 
-## Checkout product
+### Checkout product
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/0a9d2bc0-8b01-44c0-9575-2876a3cf3937)
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/609d151f-e943-425f-8fd5-822b6be7f0e4)
 
-## Payment successful
+### Payment successful
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/8081114b-2be2-4343-8988-2a3a25ba7674)
 
-## Payment failure
+### Payment failure
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/e6d53522-5cd6-4a64-b48d-cf103fecf5e7)
 
+## Video Attachment
+
+
+https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/371f102e-55fb-4af6-ba54-679d09e71aff
 
 
 
+
+## Conclusion
+
+We've designed this project with a focus on providing a secure, user-friendly, and feature-rich platform for online shopping. From robust user authentication to seamless payment processing and personalized shopping experiences, we've integrated the latest technologies and best practices to ensure a smooth journey for our users.
 
 
