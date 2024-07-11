@@ -1,10 +1,15 @@
-# Happy Shopping
+# Happy Shopping - E-commerce Website 
 
 ## Table of contents
-
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Django installation](#django-installation)
+- [Creating a Django project](#creating-a-django-project)
+- [Running the Development server](#running-the-development-server)
 
 ## Introduction
-Welcome to the Happy Shopping! This project is designed to provide a seamless and user-friendly platform for users to browse, search, and purchase a wide variety of products from the comfort of their homes.
+Welcome to the Happy Shopping🤍!! This project is designed to provide a seamless and user-friendly platform for users to browse, search, and purchase a wide variety of products from the comfort of their homes.
 
 ## Features
 - **User Authentication:** Secure registration and login functionalities to ensure user privacy and data protection.
@@ -70,6 +75,35 @@ Django migrations are used to manage changes to your database schema over time. 
     python manage.py migrate
     ```
 
+## Stripe 
+
+Stripe is a popular payment processing platform that provides APIs and tools to accept payments online.The Stripe API allows developers to integrate various payment capabilities directly into their websites or applications. Here’s an overview of using Stripe's API in your Django-based online shopping app:
+
+### Using Stripe API with Django
+
+Stripe offers a robust API that allows developers to integrate payment functionality into web applications. Here’s how you can integrate Stripe with your Django project:
+
+1. **Sign up for Stripe:** Create an account on Stripe if you haven't already. Obtain your API keys from the dashboard.
+
+2. **Install Stripe Python library:** Use the `stripe-python` library to interact with Stripe API. Install it using pip:
+    ```
+    pip install stripe
+    ```
+3. **Configure Stripe API keys:** 
+Add your Stripe API keys to your Django project's settings file (settings.py):
+    ```
+    STRIPE_PUBLIC_KEY = 'your_stripe_public_key'
+    STRIPE_SECRET_KEY = 'your_stripe_secret_key'
+    ```
+    It's recommended to store sensitive keys securely, such as using environment variables.
+
+4. **Integrate Stripe in views:** 
+    
+    Implement views to handle payments using Stripe API.
+
+5. **Secure Transactions:**
+    
+    Ensure secure handling of sensitive information such as API keys and user payment details.
 
 ## Images Attachment
 
