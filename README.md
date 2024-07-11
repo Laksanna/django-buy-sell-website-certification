@@ -7,6 +7,25 @@
 - [Django installation](#django-installation)
 - [Creating a Django project](#creating-a-django-project)
 - [Running the Development server](#running-the-development-server)
+- [Migrations](#migrations)
+- [Stripe](#stripe)
+    - [Using Stripe API with Django](#using-stripe-api-with-django)
+- [Image Attachments](#images-attachment)
+    - [Home page](#home-page)
+    - [Login page](#login-page)
+    - [Register page](#register-page)
+    - [Products page](#products-page)
+    - [User Profile page](#user-profile-page)
+    - [Add product page](#add-product-page)
+    - [Product listing page](#product-listing-page-of-a-user)
+    - [Update product page](#update-product-page)
+    - [Delete product page](#delete-product-page)
+    - [Checkout product page](#checkout-product)
+    - [Payment successful](#payment-successful)
+    - [Payment failure](#payment-failure)
+- [Video Attachment](#video-attachment)
+- [Conclusion](#conclusion)
+
 
 ## Introduction
 Welcome to the Happy Shopping🤍!! This project is designed to provide a seamless and user-friendly platform for users to browse, search, and purchase a wide variety of products from the comfort of their homes.
@@ -105,7 +124,7 @@ Add your Stripe API keys to your Django project's settings file (settings.py):
     
     Ensure secure handling of sensitive information such as API keys and user payment details.
 
-## Images Attachment
+## Images Attachments
 
 ### Home page
 
@@ -130,6 +149,7 @@ Add your Stripe API keys to your Django project's settings file (settings.py):
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/489fa6c8-a6d0-4f50-bc66-1e53c254fe68)
 
 ### User Profile page
+
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/ca148592-72bb-417b-a784-af3380f8d3c6)
 
 ### Add product page
@@ -148,7 +168,7 @@ Add your Stripe API keys to your Django project's settings file (settings.py):
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/acfb7de6-7f2a-41ce-8894-a674c75334e8)
 
-### Checkout product
+### Checkout product page
 
 ![image](https://github.com/Laksanna/django-buy-sell-website-certification/assets/134076446/0a9d2bc0-8b01-44c0-9575-2876a3cf3937)
 
